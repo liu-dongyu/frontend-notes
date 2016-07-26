@@ -19,9 +19,9 @@
 * [微信网页二次分享相关](https://github.com/liu-dongyu/front-end-notes/issues/6)
 * [微信浏览器禁止页面下拉查看网址（不影响页面内部scroll）](https://github.com/liu-dongyu/front-end-notes/issues/7)
 
-#### unbuntu
+#### ubuntu
 
-* [unbuntu下一些环境配置](https://github.com/liu-dongyu/front-end-notes/issues/5)
+* [ubuntu下一些环境配置](https://github.com/liu-dongyu/front-end-notes/issues/5)
 
 #### nginx
 
