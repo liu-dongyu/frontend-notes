@@ -28,6 +28,10 @@
 #### nginx
 
 * [nginx笔记](https://github.com/liu-dongyu/front-end-notes/issues/9)
+ 
+#### webpack
+
+* [webpack入门笔记](https://github.com/liu-dongyu/frontend-notes/issues/16)
 
 #### html
 
