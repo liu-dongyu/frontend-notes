@@ -15,6 +15,10 @@
 * [postCSS笔记](https://github.com/liu-dongyu/front-end-notes/issues/12)
 * [em笔记](https://github.com/liu-dongyu/front-end-notes/issues/14)
 
+#### webpack
+
+* [webpack入门笔记](https://github.com/liu-dongyu/frontend-notes/issues/16)
+
 #### 微信
 
 * [微信网页二次分享相关](https://github.com/liu-dongyu/front-end-notes/issues/6)
@@ -29,10 +33,6 @@
 
 * [nginx笔记](https://github.com/liu-dongyu/front-end-notes/issues/9)
  
-#### webpack
-
-* [webpack入门笔记](https://github.com/liu-dongyu/frontend-notes/issues/16)
-
 #### html
 
 * [移动端meta](https://github.com/liu-dongyu/front-end-notes/issues/11)
