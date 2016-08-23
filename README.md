@@ -18,6 +18,7 @@
 #### webpack
 
 * [webpack入门笔记](https://github.com/liu-dongyu/frontend-notes/issues/16)
+* [webpack遇到的问题以及解决方法](https://github.com/liu-dongyu/frontend-notes/issues/17)
 
 #### 微信
 
