@@ -8,6 +8,7 @@
 * [常用的原生js替代jquery的方法](https://github.com/liu-dongyu/front-end-notes/issues/3)
 * [javascript获取屏幕像素比例](https://github.com/liu-dongyu/front-end-notes/issues/8)
 * [BugHD，收集前端错误信息](https://github.com/liu-dongyu/front-end-notes/issues/10)
+* [元素定位在背景图片上某个位置上的解决方法](https://github.com/liu-dongyu/frontend-notes/issues/18)
 
 #### CSS
 
