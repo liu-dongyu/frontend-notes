@@ -1,3 +1,7 @@
+#### 综合
+
+* [项目中遇过的问题以及解决方法](https://github.com/liu-dongyu/frontend-notes/issues/19)
+
 #### git
 
 * [git常用指令备忘](https://github.com/liu-dongyu/front-end-notes/issues/1)
