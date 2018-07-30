@@ -24,3 +24,4 @@
 * [zhongshan-port项目性能优化笔记](https://github.com/liu-dongyu/frontend-notes/issues/20)
 * [记一次docker部署node应用](https://github.com/liu-dongyu/frontend-notes/issues/21)
 * [曾遇过的前端工程师面试题](https://github.com/liu-dongyu/frontend-notes/issues/22)
+* [排序和查找算法笔记](https://github.com/liu-dongyu/frontend-notes/issues/23)
