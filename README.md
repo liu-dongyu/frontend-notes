@@ -1,5 +1,4 @@
 ## 2016年
-* [项目中遇过的问题以及解决方法](https://github.com/liu-dongyu/frontend-notes/issues/19)
 * [git常用指令备忘](https://github.com/liu-dongyu/front-end-notes/issues/1)
 * [javascript判断变量类型](https://github.com/liu-dongyu/front-end-notes/issues/2)
 * [常用的原生js替代jquery的方法](https://github.com/liu-dongyu/front-end-notes/issues/3)
