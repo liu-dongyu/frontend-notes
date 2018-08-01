@@ -8,7 +8,6 @@
 * [postCSS笔记](https://github.com/liu-dongyu/front-end-notes/issues/12)
 * [em笔记](https://github.com/liu-dongyu/front-end-notes/issues/14)
 * [webpack入门笔记](https://github.com/liu-dongyu/frontend-notes/issues/16)
-* [webpack中css背景图片路径url异常或者背景图片不显示的解决方法](https://github.com/liu-dongyu/frontend-notes/issues/17)
 * [微信网页二次分享相关](https://github.com/liu-dongyu/front-end-notes/issues/6)
 * [ubuntu下一些环境配置](https://github.com/liu-dongyu/front-end-notes/issues/5)
 * [ubuntu指令备忘](https://github.com/liu-dongyu/front-end-notes/issues/13)
