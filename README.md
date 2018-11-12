@@ -1,4 +1,4 @@
-## 2016年
+## 2016/2017
 * [git常用指令备忘](https://github.com/liu-dongyu/front-end-notes/issues/1)
 * [javascript判断变量类型](https://github.com/liu-dongyu/front-end-notes/issues/2)
 * [常用的原生js替代jquery的方法](https://github.com/liu-dongyu/front-end-notes/issues/3)
@@ -15,10 +15,7 @@
 * [移动端meta](https://github.com/liu-dongyu/front-end-notes/issues/11)
 * [nvm笔记](https://github.com/liu-dongyu/front-end-notes/issues/15)
 
-## 2017年
-...
-
-## 2018年
+## 2018
 * [项目性能优化笔记](https://github.com/liu-dongyu/frontend-notes/issues/20)
 * [记一次docker部署node应用](https://github.com/liu-dongyu/frontend-notes/issues/21)
 * [曾遇过的前端工程师面试题](https://github.com/liu-dongyu/frontend-notes/issues/22)
