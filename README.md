@@ -22,3 +22,6 @@
 * [排序和查找算法笔记](https://github.com/liu-dongyu/frontend-notes/issues/23)
 * [如何实现一个lazyMan](https://github.com/liu-dongyu/frontend-notes/issues/24)
 * [记一次postcss自定义插件](https://github.com/liu-dongyu/frontend-notes/issues/25)
+
+## 2019
+* [项目总结](https://github.com/liu-dongyu/frontend-notes/issues/26)
