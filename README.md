@@ -25,3 +25,4 @@
 
 ## 2019
 * [vue项目总结](https://github.com/liu-dongyu/frontend-notes/issues/26)
+* [taro踩坑笔记](https://github.com/liu-dongyu/frontend-notes/issues/27)
