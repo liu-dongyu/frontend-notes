@@ -24,4 +24,4 @@
 * [记一次postcss自定义插件](https://github.com/liu-dongyu/frontend-notes/issues/25)
 
 ## 2019
-* [项目总结](https://github.com/liu-dongyu/frontend-notes/issues/26)
+* [vue项目总结](https://github.com/liu-dongyu/frontend-notes/issues/26)
