@@ -2,6 +2,7 @@
 ## 2019
 * [vue项目总结](https://github.com/liu-dongyu/frontend-notes/blob/master/2019/vue%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93.md)
 * [taro踩坑笔记](https://github.com/liu-dongyu/frontend-notes/blob/master/2019/taro%E8%B8%A9%E5%9D%91%E7%AC%94%E8%AE%B0.md)
+* [时间复杂度笔记](https://github.com/liu-dongyu/frontend-notes/blob/master/2019/%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6.md)
 
 ## 2018
 * [项目性能优化笔记](https://github.com/liu-dongyu/frontend-notes/blob/master/2018/%E9%A1%B9%E7%9B%AE%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E7%AC%94%E8%AE%B0.md)
