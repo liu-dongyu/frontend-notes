@@ -18,7 +18,6 @@
 - [git 常用指令备忘](https://github.com/liu-dongyu/frontend-notes/blob/master/2017/git%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4%E5%A4%87%E5%BF%98.md)
 - [javascript 判断变量类型](https://github.com/liu-dongyu/frontend-notes/blob/master/2017/javascript%E5%88%A4%E6%96%AD%E5%8F%98%E9%87%8F%E7%B1%BB%E5%9E%8B.md)
 - [常用的原生 js 替代 jquery 的方法](https://github.com/liu-dongyu/frontend-notes/blob/master/2017/%E5%B8%B8%E7%94%A8%E7%9A%84%E5%8E%9F%E7%94%9Fjs%E6%9B%BF%E4%BB%A3jquery%E7%9A%84%E6%96%B9%E6%B3%95.md)
-- [javascript 获取屏幕像素比例](https://github.com/liu-dongyu/frontend-notes/blob/master/2017/javascript%E8%8E%B7%E5%8F%96%E5%B1%8F%E5%B9%95%E5%83%8F%E7%B4%A0%E6%AF%94%E4%BE%8B.md)
 - [元素定位在背景图片上某个位置上的解决方法](https://github.com/liu-dongyu/frontend-notes/blob/master/2017/%E5%85%83%E7%B4%A0%E5%AE%9A%E4%BD%8D%E5%9C%A8%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%87%E4%B8%8A%E6%9F%90%E4%B8%AA%E4%BD%8D%E7%BD%AE%E4%B8%8A%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95.md)
 - [css 元素居中方法集](https://github.com/liu-dongyu/frontend-notes/blob/master/2017/css%E5%85%83%E7%B4%A0%E5%B1%85%E4%B8%AD%E6%96%B9%E6%B3%95%E9%9B%86.md)
 - [postCSS 笔记](https://github.com/liu-dongyu/frontend-notes/blob/master/2017/postCSS%E7%AC%94%E8%AE%B0.md)
