@@ -25,8 +25,5 @@
 - [em 笔记](https://github.com/liu-dongyu/frontend-notes/blob/master/2017/em%E7%AC%94%E8%AE%B0.md)
 - [webpack 入门笔记](https://github.com/liu-dongyu/frontend-notes/blob/master/2017/webpack%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0.md)
 - [微信网页二次分享相关](https://github.com/liu-dongyu/frontend-notes/blob/master/2017/%E5%BE%AE%E4%BF%A1%E4%BA%8C%E6%AC%A1%E5%88%86%E4%BA%AB%E7%9B%B8%E5%85%B3.md)
-- [ubuntu 下一些环境配置](https://github.com/liu-dongyu/frontend-notes/blob/master/2017/ubuntu%E4%B8%8B%E4%B8%80%E4%BA%9B%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE.md)
 - [ubuntu 指令备忘](https://github.com/liu-dongyu/frontend-notes/blob/master/2017/ubuntu%E6%8C%87%E4%BB%A4%E5%A4%87%E5%BF%98.md)
-- [nginx 笔记](https://github.com/liu-dongyu/frontend-notes/blob/master/2017/nginx%E7%AC%94%E8%AE%B0.md)
-- [移动端 meta](https://github.com/liu-dongyu/frontend-notes/blob/master/2017/%E7%A7%BB%E5%8A%A8%E7%AB%AFmeta.md)
 - [nvm 笔记](https://github.com/liu-dongyu/frontend-notes/blob/master/2017/nvm%E7%AC%94%E8%AE%B0.md)
