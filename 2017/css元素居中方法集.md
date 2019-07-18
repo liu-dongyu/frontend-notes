@@ -2,7 +2,7 @@
 
 - 行内( inline ) 或 inline\_\* 元素 （例如文本或者链接）[点我查看例子](http://jsbin.com/qexizalogu/1/edit?html,css,output)
 
-```
+```css
 .center-children {
   text-align: center;
 }
@@ -10,7 +10,7 @@
 
 - 单个块元素 [点我查看例子](https://jsbin.com/napolufivu/1/edit?html,css,output)
 
-```
+```css
 // 必须设置宽度（块元素默认100%宽度，无居中可言）
 .center-me {
   width: 50%;
@@ -20,7 +20,7 @@
 
 - 多个块元素 [点我查看例子](https://jsbin.com/xawicoceze/edit?html,css,output)
 
-```
+```css
 .flex-center {
   display: flex;
   justify-content: center;
@@ -43,7 +43,7 @@ div {
 
 - 行内( inline ) 或 inline\_\* 元素 （例如文本或者链接） [点我查看例子](https://jsbin.com/tupulerudu/3/edit?html,css,output)
 
-```
+```css
 .center-link {
   padding: 20px;
 }
@@ -57,7 +57,7 @@ div {
 
 - 多行文字 [点我查看例子](https://jsbin.com/takiqiwexa/edit?html,css,output)
 
-```
+```css
 // 要声明父元素的高度
 .parent {
   display: table;
@@ -79,7 +79,7 @@ div {
 
 - 块元素 [点我查看例子](https://jsbin.com/xixepupepo/4/edit?html,css,output)
 
-```
+```css
 // 方法1
 .parent {
   position: relative;
@@ -113,7 +113,7 @@ div {
 
 #### 上下左右居中 [点我查看例子](https://jsbin.com/xixepupepo/edit?html,css,output)
 
-```
+```css
 // 方法1
 .parent {
   position: relative;
