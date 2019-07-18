@@ -7,7 +7,7 @@
 
 ## 2018
 
-- [项目性能优化笔记](https://github.com/liu-dongyu/frontend-notes/blob/master/2018/%E9%A1%B9%E7%9B%AE%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E7%AC%94%E8%AE%B0.md)
+- [记一次Vue项目性能优化](https://github.com/liu-dongyu/frontend-notes/blob/master/2018/%E8%AE%B0%E4%B8%80%E6%AC%A1Vue%E9%A1%B9%E7%9B%AE%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96.md)
 - [记一次 docker 部署 node 应用](https://github.com/liu-dongyu/frontend-notes/blob/master/2018/%E8%AE%B0%E4%B8%80%E6%AC%A1docker%E9%83%A8%E7%BD%B2node%E5%BA%94%E7%94%A8.md)
 - [排序和查找算法笔记](https://github.com/liu-dongyu/frontend-notes/blob/master/2018/%E6%8E%92%E5%BA%8F%E5%92%8C%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95%E7%AC%94%E8%AE%B0.md)
 - [如何实现一个 lazyMan](https://github.com/liu-dongyu/frontend-notes/blob/master/2018/%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%20LazyMan.md)
