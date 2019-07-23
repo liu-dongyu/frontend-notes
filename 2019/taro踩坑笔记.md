@@ -108,3 +108,25 @@ function Page() {
   }
 }
 ```
+
+## customer hook定义的方法无法绑定
+
+> [issue传送门](https://github.com/NervJS/taro/issues/3923)
+
+```javascript
+// useSwiper.js
+export default function() {
+  const onChange = (e) => console.log(e);
+  return {
+    onChange
+  }
+}
+```
+
+```javascript
+function Page() {
+  const demo = useDemo();
+  // onChange触发时会报错
+  return <Swiper onChange={demo.onChange}>xxx</Swiper>
+}
+```
