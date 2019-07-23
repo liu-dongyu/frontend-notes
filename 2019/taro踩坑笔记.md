@@ -54,7 +54,7 @@ export default PageA;
 
 ## ~~在 render 组件中，无法在 map 中绑定事件~~
 
-**map 中缺少 return 导致解析出错，应该会在 v1.3.5 中修复该问题**
+**v1.3.5 版本已 fix 该问题**
 
 > [issues 传送门](https://github.com/NervJS/taro/issues/3536)
 
