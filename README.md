@@ -4,7 +4,7 @@
 - [taro 踩坑笔记](https://github.com/liu-dongyu/frontend-notes/blob/master/2019/taro%E8%B8%A9%E5%9D%91%E7%AC%94%E8%AE%B0.md)
 - [时间复杂度笔记](https://github.com/liu-dongyu/frontend-notes/blob/master/2019/%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6.md)
 - [前端面试题](https://github.com/liu-dongyu/frontend-notes/blob/master/2019/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98.md)
-- [flutter 笔记]()
+- [flutter 笔记](https://github.com/liu-dongyu/frontend-notes/tree/master/2019/flutter)
 
 ## 2018
 
