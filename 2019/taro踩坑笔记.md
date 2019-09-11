@@ -39,7 +39,7 @@ let strLength: number = (someValue as string).length
 
 ## ~~涉及小程序原生事件时，page 无法使用函数式写法~~
 
-**作者反馈 hooks 和小程序原生钩子函数不兼容，所以涉及该类事件时，要用`Class`实现**
+**v1.3.14 版本已 fix 该问题**
 
 > [issues 传送门](https://github.com/NervJS/taro/issues/3054)
 
@@ -109,7 +109,9 @@ function Page() {
 }
 ```
 
-## customer hook定义的方法无法绑定
+## ~~customer hook定义的方法无法绑定~~
+
+**v1.3.18 版本已 fix 该问题**
 
 > [issue传送门](https://github.com/NervJS/taro/issues/3923)
 
