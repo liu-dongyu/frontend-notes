@@ -1,6 +1,6 @@
 ## 2020
 
--[使用apollo-client+antd+typescript搭建管理后台](https://github.com/liu-dongyu/frontend-notes/blob/master/2020/%E4%BD%BF%E7%94%A8apollo-client+antd+typescript%E6%90%AD%E5%BB%BA%E7%AE%A1%E7%90%86%E5%90%8E%E5%8F%B0.md)
+- [使用apollo-client+antd+typescript搭建管理后台](https://github.com/liu-dongyu/frontend-notes/blob/master/2020/%E4%BD%BF%E7%94%A8apollo-client+antd+typescript%E6%90%AD%E5%BB%BA%E7%AE%A1%E7%90%86%E5%90%8E%E5%8F%B0.md)
 
 ## 2019
 
