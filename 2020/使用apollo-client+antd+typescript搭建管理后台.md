@@ -543,7 +543,7 @@ const AntdDayjsWebpackPlugin = require("antd-dayjs-webpack-plugin");
 
 module.exports = override(
   /**
-   * 这个东西用来干嘛的 ？ 
+   * 这个东西用来干嘛的？
    *
    * 使用dayjs替换antd默认使用的Moment.js
    */
