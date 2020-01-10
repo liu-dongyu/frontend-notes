@@ -169,7 +169,7 @@ const {
 
 module.exports = override(
   /**
-   * 这个东西用来干嘛的 ？ 
+   * 这个东西用来干嘛的？
    *
    * 该插件用于将
    * import { Button } from 'antd';
