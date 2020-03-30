@@ -83,6 +83,21 @@ npm install tslint tslint-config-prettier tslint-eslint-rules tslint-loader tsli
 }
 ```
 
+<font size="3">打开config-overrides.js（该文件会在配置antd的环节中创建，此处先穿插），配置如下</font>
+
+```ts
+const {
+  override,
+  disableEsLint,
+  addTslintLoader
+} = require("customize-cra");
+
+module.exports = override(
+  addTslintLoader(),
+  disableEsLint()
+);
+```
+
 #### 1.4 兼容 IE11
 
 > 详情查看 [supported-browsers](https://create-react-app.dev/docs/supported-browsers-features/#supported-browsers)
