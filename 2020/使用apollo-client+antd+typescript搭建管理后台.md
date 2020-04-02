@@ -608,15 +608,23 @@ npm install @types/nprogress --save-dev
 import "nprogress/nprogress.css";
 import nprogress from "nprogress";
 
-const MyRoute = () => {
+const FancRoute = ({ ...rest }) => {
   nprogress.start();
 
   useEffect(() => {
     nprogress.done();
   });
 
-  // xxx
+  return <Route {...rest} />;
 };
+
+const MyRoute = () =>  {
+  return (
+    <Switch>
+      <FancRoute path={xxx} component={xxx} />
+    </Switch>
+  )
+}
 ```
 
 #### 5.3 如何手动触发 useQuery
